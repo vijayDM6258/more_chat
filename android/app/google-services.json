@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782798528674",
+    "project_id": "more-chat-22ffb",
+    "storage_bucket": "more-chat-22ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782798528674:android:28ab440d82c70f7834f7fb",
+        "android_client_info": {
+          "package_name": "com.example.more_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhWv0g9j6kk83Rm7J7Naml1St6R3FuDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
