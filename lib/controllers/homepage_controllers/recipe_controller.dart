@@ -16,6 +16,10 @@ class RecipeController extends GetxController {
       name: 'Bhat',
       description: '20',
     ),
+    Recipe(
+      name: 'DalBatti',
+      description: '200',
+    ),
   ].obs;
 
   void addRecipe(Recipe recipe) {
